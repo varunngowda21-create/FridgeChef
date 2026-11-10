@@ -1,0 +1,83 @@
+# Environment variables
+.env
+.env.*
+.env.local
+.env.*.local
+.env.staging
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing & Linting
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+tmp/
+api/tmp/
+
+# Logs & Databases
+*.log
+*.sqlite3
+*.db
+backups/
+*.sql
+*.sql.gz
+*.dump
+
+# SSL / TLS Certificates & ACME
+certs/
+*.pem
+*.key
+*.crt
+certbot-webroot/
+
+# Node.js & Frontend Build Outputs
+node_modules/
+web/node_modules/
+dist/
+web/dist/
+
+# Test Reports
+playwright-report/
+test-results/
+coverage/
+
+# Media uploads (stored outside web root)
+uploads/
+/uploads/
+api/uploads/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

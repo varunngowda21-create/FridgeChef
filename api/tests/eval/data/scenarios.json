@@ -1,0 +1,1960 @@
+[
+  {
+    "id": "SCEN-01",
+    "title": "Fridge Top Shelf - Dairy & Breakfast",
+    "description": "Top refrigerator glass shelf holding a 1L milk carton, 400g curd tub, 500g butter block, and a 6-egg molded carton.",
+    "environment": "FRIDGE",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_01.jpg",
+    "expected_canonical_ids": [
+      "milk",
+      "curd",
+      "butter",
+      "eggs"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Cow Milk",
+          "quantity": 1,
+          "unit": "bottle",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "1L Tetra Pak carton"
+        },
+        {
+          "name": "Curd",
+          "quantity": 1,
+          "unit": "container",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Plastic tub of dahi"
+        },
+        {
+          "name": "Butter",
+          "quantity": 1,
+          "unit": "packet",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Yellow foil packaging block"
+        },
+        {
+          "name": "Eggs",
+          "quantity": 6,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Carton of brown eggs"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Clear direct lighting, distinct dairy cartons and egg tray."
+  },
+  {
+    "id": "SCEN-02",
+    "title": "Vegetable Crisper - Daily Essentials",
+    "description": "Lower crisper drawer containing ripe red tomatoes, whole red onions, baking potatoes, and several long green chillies.",
+    "environment": "FRIDGE",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "MODERATE",
+    "image_filename": "scenario_02.jpg",
+    "expected_canonical_ids": [
+      "tomato",
+      "onion",
+      "potato",
+      "green_chilli"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Tomato",
+          "quantity": 4,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Round red tomatoes"
+        },
+        {
+          "name": "Onion",
+          "quantity": 3,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Whole purple-red onions"
+        },
+        {
+          "name": "Potato",
+          "quantity": 3,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Brown unpeeled potatoes"
+        },
+        {
+          "name": "Green Chilli",
+          "quantity": 6,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Slender fresh green chillies"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Classic Indian household staples in crisper drawer."
+  },
+  {
+    "id": "SCEN-03",
+    "title": "Aromatics Basket - Ginger, Garlic, Curry Leaves",
+    "description": "Woven basket on counter with fresh ginger root, garlic bulb, and a bunch of fresh green curry leaves.",
+    "environment": "COUNTER",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_03.jpg",
+    "expected_canonical_ids": [
+      "ginger",
+      "garlic",
+      "curry_leaves"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Ginger",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Knobby ginger rhizome"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Whole white garlic bulb"
+        },
+        {
+          "name": "Curry Leaves",
+          "quantity": 1,
+          "unit": "bunch",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Stems with dark green leaves"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Fresh aromatics on kitchen counter."
+  },
+  {
+    "id": "SCEN-04",
+    "title": "Salad Drawer - Crisp Greens & Roots",
+    "description": "Fridge compartment holding dark green cucumbers, orange carrots, bell pepper, and yellow lemons.",
+    "environment": "FRIDGE",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "MODERATE",
+    "image_filename": "scenario_04.jpg",
+    "expected_canonical_ids": [
+      "cucumber",
+      "carrot",
+      "capsicum",
+      "lemon"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Cucumber",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Long green cucumbers"
+        },
+        {
+          "name": "Carrot",
+          "quantity": 3,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Fresh carrots"
+        },
+        {
+          "name": "Capsicum",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Green bell pepper"
+        },
+        {
+          "name": "Lemon",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Bright yellow lemons"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Salad staples with distinct colors."
+  },
+  {
+    "id": "SCEN-05",
+    "title": "Herbs Comparison - Mint vs Coriander",
+    "description": "Close-up of herb jars on shelf with fresh mint leaves, coriander leaves, and a cut lemon.",
+    "environment": "FRIDGE",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "MODERATE",
+    "image_filename": "scenario_05.jpg",
+    "expected_canonical_ids": [
+      "coriander_leaves",
+      "mint_leaves",
+      "lemon"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Coriander Leaves",
+          "quantity": 1,
+          "unit": "bunch",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Lobed green cilantro leaves"
+        },
+        {
+          "name": "Mint Leaves",
+          "quantity": 1,
+          "unit": "bunch",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Serrated aromatic mint leaves"
+        },
+        {
+          "name": "Lemon",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Half-cut lemon"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Tests visually similar herbs differentiation (mint vs coriander)."
+  },
+  {
+    "id": "SCEN-06",
+    "title": "Cruciferous & Pods - Cauliflower, Peas & Okra",
+    "description": "Vegetable box with a head of cauliflower, green peas in a clear container, and fresh okra pods.",
+    "environment": "FRIDGE",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "MODERATE",
+    "image_filename": "scenario_06.jpg",
+    "expected_canonical_ids": [
+      "cauliflower",
+      "green_peas",
+      "okra"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Cauliflower",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "White curd with green leaves"
+        },
+        {
+          "name": "Green Peas",
+          "quantity": 1,
+          "unit": "container",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Shelled green peas"
+        },
+        {
+          "name": "Okra",
+          "quantity": 10,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Tapered green okra pods"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Distinct pod and cruciferous structures."
+  },
+  {
+    "id": "SCEN-07",
+    "title": "Leafy Greens - Spinach & Fenugreek",
+    "description": "Two bunches of Indian leafy greens side-by-side: broad-leaved palak and small three-lobed methi leaves.",
+    "environment": "FRIDGE",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "MODERATE",
+    "image_filename": "scenario_07.jpg",
+    "expected_canonical_ids": [
+      "spinach",
+      "fenugreek_leaves"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Spinach",
+          "quantity": 1,
+          "unit": "bunch",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Broad tender spinach leaves"
+        },
+        {
+          "name": "Fenugreek Leaves",
+          "quantity": 1,
+          "unit": "bunch",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Small fenugreek leaves on thin stems"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Visually challenging leafy green comparison (spinach vs fenugreek)."
+  },
+  {
+    "id": "SCEN-08",
+    "title": "Pantry Staples - Ghee, Dry Alliums & Potatoes",
+    "description": "Dark pantry shelf with a 500ml glass jar of golden desi ghee, yellow onions, potatoes, and garlic.",
+    "environment": "PANTRY",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_08.jpg",
+    "expected_canonical_ids": [
+      "ghee",
+      "onion",
+      "potato",
+      "garlic"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Desi Ghee",
+          "quantity": 1,
+          "unit": "bottle",
+          "storage_guess": "PANTRY",
+          "confidence": "HIGH",
+          "visible_note": "Golden clarified butter in glass jar"
+        },
+        {
+          "name": "Onion",
+          "quantity": 4,
+          "unit": "piece",
+          "storage_guess": "PANTRY",
+          "confidence": "HIGH",
+          "visible_note": "Dry onions with papery skin"
+        },
+        {
+          "name": "Potato",
+          "quantity": 4,
+          "unit": "piece",
+          "storage_guess": "PANTRY",
+          "confidence": "HIGH",
+          "visible_note": "Firm unpeeled potatoes"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "PANTRY",
+          "confidence": "HIGH",
+          "visible_note": "Dry garlic heads"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Dry pantry shelf setting."
+  },
+  {
+    "id": "SCEN-09",
+    "title": "Fruit Shelf - Bananas & Apples",
+    "description": "Countertop bowl containing ripe yellow bananas and red delicious apples.",
+    "environment": "COUNTER",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_09.jpg",
+    "expected_canonical_ids": [
+      "banana",
+      "apple"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Banana",
+          "quantity": 4,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Yellow bananas with brown spots"
+        },
+        {
+          "name": "Apple",
+          "quantity": 3,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Glossy red apples"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Common countertop fruit display."
+  },
+  {
+    "id": "SCEN-10",
+    "title": "Protein & Mushroom Shelf",
+    "description": "Middle fridge shelf holding 200g vacuum-sealed paneer, a punnet of white button mushrooms, and eggs in carton.",
+    "environment": "FRIDGE",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_10.jpg",
+    "expected_canonical_ids": [
+      "paneer",
+      "mushroom",
+      "eggs"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Paneer",
+          "quantity": 1,
+          "unit": "packet",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "White cottage cheese block in plastic"
+        },
+        {
+          "name": "Mushroom",
+          "quantity": 1,
+          "unit": "container",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Tray of white button mushrooms"
+        },
+        {
+          "name": "Eggs",
+          "quantity": 6,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Standard egg carton"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Perishable proteins in clear view."
+  },
+  {
+    "id": "SCEN-11",
+    "title": "Freezer Meat & Frozen Veg",
+    "description": "Freezer compartment with a sealed tray of curry-cut raw chicken and a transparent bag of frozen green peas.",
+    "environment": "FREEZER",
+    "lighting": "DIM_INTERIOR",
+    "clutter": "MODERATE",
+    "image_filename": "scenario_11.jpg",
+    "expected_canonical_ids": [
+      "chicken_curry_cut",
+      "green_peas"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Chicken Curry Cut",
+          "quantity": 1,
+          "unit": "packet",
+          "storage_guess": "FREEZER",
+          "confidence": "HIGH",
+          "visible_note": "Bone-in raw chicken pieces"
+        },
+        {
+          "name": "Green Peas",
+          "quantity": 1,
+          "unit": "packet",
+          "storage_guess": "FREEZER",
+          "confidence": "HIGH",
+          "visible_note": "Plastic bag of loose peas"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Freezer frost and plastic packaging."
+  },
+  {
+    "id": "SCEN-12",
+    "title": "Coastal Staples - Fresh Coconut & Curry Leaves",
+    "description": "Chopping board with half a fresh brown coconut, sprigs of green curry leaves, and fresh green chillies.",
+    "environment": "COUNTER",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_12.jpg",
+    "expected_canonical_ids": [
+      "coconut_fresh",
+      "curry_leaves",
+      "green_chilli"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Fresh Coconut",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Brown fibrous husk with white meat"
+        },
+        {
+          "name": "Curry Leaves",
+          "quantity": 1,
+          "unit": "bunch",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Aromatic leaves on twigs"
+        },
+        {
+          "name": "Green Chilli",
+          "quantity": 3,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Spicy green peppers"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "South Indian wet masala essentials."
+  },
+  {
+    "id": "SCEN-13",
+    "title": "Cabbage & Bell Pepper Prep",
+    "description": "Prep area with a whole green cabbage head, green bell pepper, and peeled orange carrots.",
+    "environment": "COUNTER",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_13.jpg",
+    "expected_canonical_ids": [
+      "cabbage",
+      "capsicum",
+      "carrot"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Cabbage",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Round green cabbage head"
+        },
+        {
+          "name": "Capsicum",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Blocky green bell peppers"
+        },
+        {
+          "name": "Carrot",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Trimmed orange carrots"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Countertop vegetable preparation."
+  },
+  {
+    "id": "SCEN-14",
+    "title": "Dim Fridge Interior - Evening Lighting (FN Challenge)",
+    "description": "Deep shelf illuminated only by weak fridge bulb. Tomatoes, cucumber, and lemons visible; green chillies in the back shadow are missed.",
+    "environment": "FRIDGE",
+    "lighting": "DIM_INTERIOR",
+    "clutter": "MODERATE",
+    "image_filename": "scenario_14.jpg",
+    "expected_canonical_ids": [
+      "tomato",
+      "cucumber",
+      "lemon",
+      "green_chilli"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Tomato",
+          "quantity": 3,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Red tomatoes in front"
+        },
+        {
+          "name": "Cucumber",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "MEDIUM",
+          "visible_note": "Green cucumber on side"
+        },
+        {
+          "name": "Lemon",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "MEDIUM",
+          "visible_note": "Yellow lemon near door"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Realistic false negative: green chillies occluded in deep shadows missed."
+  },
+  {
+    "id": "SCEN-15",
+    "title": "Cluttered Door Shelf - Dairy & Jars (FP Challenge)",
+    "description": "Door racks packed tightly with milk pouch, butter, curd cup, and a lemon, plus an unlabeled homemade spicy pickle jar.",
+    "environment": "FRIDGE",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "CLUTTERED",
+    "image_filename": "scenario_15.jpg",
+    "expected_canonical_ids": [
+      "milk",
+      "butter",
+      "curd",
+      "lemon"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Milk",
+          "quantity": 1,
+          "unit": "packet",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "500ml milk pouch"
+        },
+        {
+          "name": "Butter",
+          "quantity": 1,
+          "unit": "packet",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Table butter pack"
+        },
+        {
+          "name": "Curd",
+          "quantity": 1,
+          "unit": "container",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Small yogurt cup"
+        },
+        {
+          "name": "Lemon",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Single lemon in egg rack"
+        },
+        {
+          "name": "Spicy Pickle Jar",
+          "quantity": 1,
+          "unit": "container",
+          "storage_guess": "FRIDGE",
+          "confidence": "LOW",
+          "visible_note": "Unlabeled glass jar with dark red paste"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Realistic false positive: unmapped item ('Spicy Pickle Jar') requiring user review."
+  },
+  {
+    "id": "SCEN-16",
+    "title": "Curry Base Kit - Aromatics & Tomatoes",
+    "description": "Standard North Indian curry mise-en-place with red onions, ripe tomatoes, ginger root, garlic cloves, and green chillies.",
+    "environment": "COUNTER",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "MODERATE",
+    "image_filename": "scenario_16.jpg",
+    "expected_canonical_ids": [
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "green_chilli"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Onion",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Purple onions"
+        },
+        {
+          "name": "Tomato",
+          "quantity": 3,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Plum tomatoes"
+        },
+        {
+          "name": "Ginger",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Fresh ginger root"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Loose garlic cloves"
+        },
+        {
+          "name": "Green Chilli",
+          "quantity": 4,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Slender green chillies"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Fundamental 5-ingredient curry base."
+  },
+  {
+    "id": "SCEN-17",
+    "title": "Paneer Butter Masala Prep",
+    "description": "Kitchen counter with a block of cottage cheese, butter slab, fresh tomatoes, and a bowl of curd.",
+    "environment": "COUNTER",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "MODERATE",
+    "image_filename": "scenario_17.jpg",
+    "expected_canonical_ids": [
+      "paneer",
+      "butter",
+      "tomato",
+      "curd"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Paneer",
+          "quantity": 1,
+          "unit": "packet",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Fresh paneer block"
+        },
+        {
+          "name": "Butter",
+          "quantity": 1,
+          "unit": "packet",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Yellow butter block"
+        },
+        {
+          "name": "Tomato",
+          "quantity": 4,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Red ripe tomatoes"
+        },
+        {
+          "name": "Curd",
+          "quantity": 1,
+          "unit": "container",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "White plain curd bowl"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Rich vegetarian gravy prep items."
+  },
+  {
+    "id": "SCEN-18",
+    "title": "Root Vegetables Basket - Potato, Ginger, Carrot",
+    "description": "Pantry bin with brown russet potatoes, ginger root, whole orange carrots, and dry onions.",
+    "environment": "PANTRY",
+    "lighting": "SHADOW",
+    "clutter": "MODERATE",
+    "image_filename": "scenario_18.jpg",
+    "expected_canonical_ids": [
+      "potato",
+      "ginger",
+      "carrot",
+      "onion"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Potato",
+          "quantity": 3,
+          "unit": "piece",
+          "storage_guess": "PANTRY",
+          "confidence": "HIGH",
+          "visible_note": "Medium size potatoes"
+        },
+        {
+          "name": "Ginger",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "PANTRY",
+          "confidence": "HIGH",
+          "visible_note": "Ginger rhizome"
+        },
+        {
+          "name": "Carrot",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "PANTRY",
+          "confidence": "HIGH",
+          "visible_note": "Long orange roots"
+        },
+        {
+          "name": "Onion",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "PANTRY",
+          "confidence": "HIGH",
+          "visible_note": "Medium red onions"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Pantry root vegetable grouping."
+  },
+  {
+    "id": "SCEN-19",
+    "title": "Stir Fry Veggies - Capsicum, Mushroom, Onion",
+    "description": "Countertop bowl containing green capsicum, button mushrooms, and a red onion.",
+    "environment": "COUNTER",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_19.jpg",
+    "expected_canonical_ids": [
+      "capsicum",
+      "mushroom",
+      "onion"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Capsicum",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Whole green bell pepper"
+        },
+        {
+          "name": "Mushroom",
+          "quantity": 6,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "White button mushrooms"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Large red onion"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Chinese bhel or stir fry prep."
+  },
+  {
+    "id": "SCEN-20",
+    "title": "Breakfast Eggs & Toast Prep",
+    "description": "Prep area with four whole eggs, butter, and a bottle of milk.",
+    "environment": "COUNTER",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_20.jpg",
+    "expected_canonical_ids": [
+      "eggs",
+      "butter",
+      "milk"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Eggs",
+          "quantity": 4,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Brown hen eggs"
+        },
+        {
+          "name": "Butter",
+          "quantity": 1,
+          "unit": "packet",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Yellow butter slab"
+        },
+        {
+          "name": "Milk",
+          "quantity": 1,
+          "unit": "bottle",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Glass bottle of milk"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Simple breakfast ingredients."
+  },
+  {
+    "id": "SCEN-21",
+    "title": "Palak Paneer Ingredients",
+    "description": "A tied bundle of dark green spinach, paneer block, peeled ginger, garlic cloves, and green chillies.",
+    "environment": "COUNTER",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "MODERATE",
+    "image_filename": "scenario_21.jpg",
+    "expected_canonical_ids": [
+      "spinach",
+      "paneer",
+      "ginger",
+      "garlic",
+      "green_chilli"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Spinach",
+          "quantity": 1,
+          "unit": "bunch",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Fresh green spinach bunch"
+        },
+        {
+          "name": "Paneer",
+          "quantity": 1,
+          "unit": "packet",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Firm white cottage cheese"
+        },
+        {
+          "name": "Ginger",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Peeled ginger root"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 5,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Garlic cloves"
+        },
+        {
+          "name": "Green Chilli",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Hot green chillies"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Classic palak paneer components."
+  },
+  {
+    "id": "SCEN-22",
+    "title": "South Indian Sambar Prep",
+    "description": "Shallots/onions, tomato, sprigs of fresh curry leaves, and tender green bhindi (okra).",
+    "environment": "COUNTER",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "MODERATE",
+    "image_filename": "scenario_22.jpg",
+    "expected_canonical_ids": [
+      "onion",
+      "tomato",
+      "curry_leaves",
+      "okra"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Onion",
+          "quantity": 5,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Small shallot onions"
+        },
+        {
+          "name": "Tomato",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Medium red tomatoes"
+        },
+        {
+          "name": "Curry Leaves",
+          "quantity": 1,
+          "unit": "bunch",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Aromatic neem leaves"
+        },
+        {
+          "name": "Okra",
+          "quantity": 6,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Tender green bhindi pods"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Sambar vegetable kit."
+  },
+  {
+    "id": "SCEN-23",
+    "title": "Pantry Ghee & Coconut",
+    "description": "Mason jar of homemade clarified butter (ghee) beside half a freshly cracked coconut.",
+    "environment": "PANTRY",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_23.jpg",
+    "expected_canonical_ids": [
+      "ghee",
+      "coconut_fresh"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Desi Ghee",
+          "quantity": 1,
+          "unit": "bottle",
+          "storage_guess": "PANTRY",
+          "confidence": "HIGH",
+          "visible_note": "Semisolid golden butter oil"
+        },
+        {
+          "name": "Fresh Coconut",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "PANTRY",
+          "confidence": "HIGH",
+          "visible_note": "Half coconut with kernel"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "High-fat cooking staples."
+  },
+  {
+    "id": "SCEN-24",
+    "title": "Translucent Container Shelf - Curd & Paneer",
+    "description": "Middle shelf holding homemade curd in a steel lid dabba and white paneer cubes in a semi-opaque box.",
+    "environment": "FRIDGE",
+    "lighting": "DIM_INTERIOR",
+    "clutter": "MODERATE",
+    "image_filename": "scenario_24.jpg",
+    "expected_canonical_ids": [
+      "curd",
+      "paneer"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Curd",
+          "quantity": 1,
+          "unit": "container",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Set curd in round box"
+        },
+        {
+          "name": "Paneer",
+          "quantity": 1,
+          "unit": "container",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "White cubes in container"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Containers with slight visual opacity."
+  },
+  {
+    "id": "SCEN-25",
+    "title": "Aloo Gobi Ingredients",
+    "description": "Potatoes, head of cauliflower, tomatoes, ginger root, and green chillies on a cutting board.",
+    "environment": "COUNTER",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "MODERATE",
+    "image_filename": "scenario_25.jpg",
+    "expected_canonical_ids": [
+      "potato",
+      "cauliflower",
+      "tomato",
+      "ginger",
+      "green_chilli"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Potato",
+          "quantity": 3,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Whole russet potatoes"
+        },
+        {
+          "name": "Cauliflower",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Compact white head"
+        },
+        {
+          "name": "Tomato",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Firm red tomatoes"
+        },
+        {
+          "name": "Ginger",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Fresh ginger"
+        },
+        {
+          "name": "Green Chilli",
+          "quantity": 3,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Slender chillies"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Classic dry subzi ingredients."
+  },
+  {
+    "id": "SCEN-26",
+    "title": "Bhindi Masala Prep",
+    "description": "Fresh tender okra pods, sliced onions, tomatoes, and green chillies.",
+    "environment": "COUNTER",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_26.jpg",
+    "expected_canonical_ids": [
+      "okra",
+      "onion",
+      "tomato",
+      "green_chilli"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Okra",
+          "quantity": 12,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Slender lady fingers"
+        },
+        {
+          "name": "Onion",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Red onions"
+        },
+        {
+          "name": "Tomato",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Red tomatoes"
+        },
+        {
+          "name": "Green Chilli",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Green chillies"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Popular subzi prep items."
+  },
+  {
+    "id": "SCEN-27",
+    "title": "Fruit & Dairy Snack Shelf",
+    "description": "Red apples, yellow bananas, a tetrapak of cow milk, and Greek curd on upper fridge rack.",
+    "environment": "FRIDGE",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_27.jpg",
+    "expected_canonical_ids": [
+      "apple",
+      "banana",
+      "milk",
+      "curd"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Apple",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Red crisp apples"
+        },
+        {
+          "name": "Banana",
+          "quantity": 3,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Curved yellow bananas"
+        },
+        {
+          "name": "Milk",
+          "quantity": 1,
+          "unit": "bottle",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "1L carton"
+        },
+        {
+          "name": "Curd",
+          "quantity": 1,
+          "unit": "container",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Thick curd cup"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Healthy snack pairing."
+  },
+  {
+    "id": "SCEN-28",
+    "title": "Methi Paratha Kit - Fenugreek, Ghee, Curd",
+    "description": "A tied bunch of fresh fenugreek leaves, a pot of desi ghee, and a bowl of fresh curd.",
+    "environment": "COUNTER",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_28.jpg",
+    "expected_canonical_ids": [
+      "fenugreek_leaves",
+      "ghee",
+      "curd"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Fenugreek Leaves",
+          "quantity": 1,
+          "unit": "bunch",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Green fenugreek bunch"
+        },
+        {
+          "name": "Desi Ghee",
+          "quantity": 1,
+          "unit": "bottle",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Clarified butter"
+        },
+        {
+          "name": "Curd",
+          "quantity": 1,
+          "unit": "container",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Plain curd"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Paratha kit essentials."
+  },
+  {
+    "id": "SCEN-29",
+    "title": "Mushroom Matar Prep",
+    "description": "Box of button mushrooms, bowl of green peas, red onions, and tomatoes on a tray.",
+    "environment": "COUNTER",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_29.jpg",
+    "expected_canonical_ids": [
+      "mushroom",
+      "green_peas",
+      "onion",
+      "tomato"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Mushroom",
+          "quantity": 1,
+          "unit": "container",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Fresh white mushrooms"
+        },
+        {
+          "name": "Green Peas",
+          "quantity": 1,
+          "unit": "container",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Fresh shelled peas"
+        },
+        {
+          "name": "Onion",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Red onions"
+        },
+        {
+          "name": "Tomato",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Ripe tomatoes"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Vegetarian curry combo."
+  },
+  {
+    "id": "SCEN-30",
+    "title": "Non-Veg Curry Prep - Chicken, Aromatics",
+    "description": "Tray with bone-in raw chicken pieces, sliced red onions, ginger, whole garlic, and fresh curry leaves.",
+    "environment": "COUNTER",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "MODERATE",
+    "image_filename": "scenario_30.jpg",
+    "expected_canonical_ids": [
+      "chicken_curry_cut",
+      "onion",
+      "ginger",
+      "garlic",
+      "curry_leaves"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Chicken Curry Cut",
+          "quantity": 1,
+          "unit": "packet",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Raw chicken pieces"
+        },
+        {
+          "name": "Onion",
+          "quantity": 3,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Red onions"
+        },
+        {
+          "name": "Ginger",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Peeled ginger"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Garlic bulb"
+        },
+        {
+          "name": "Curry Leaves",
+          "quantity": 1,
+          "unit": "bunch",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Fresh curry leaves"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Chicken curry aromatics kit."
+  },
+  {
+    "id": "SCEN-31",
+    "title": "Partially Occluded Drawer - Behind Water Pitcher (FN Challenge)",
+    "description": "Drawer where cabbage and capsicum are visible in front, but carrots partially hidden behind a pitcher are missed.",
+    "environment": "FRIDGE",
+    "lighting": "SHADOW",
+    "clutter": "CLUTTERED",
+    "image_filename": "scenario_31.jpg",
+    "expected_canonical_ids": [
+      "cabbage",
+      "capsicum",
+      "carrot"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Cabbage",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Head of cabbage in front"
+        },
+        {
+          "name": "Capsicum",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "MEDIUM",
+          "visible_note": "Green bell pepper"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Partial occlusion causing 1 false negative (carrot)."
+  },
+  {
+    "id": "SCEN-32",
+    "title": "Lower Crisper in Dark Corner",
+    "description": "Dim lower drawer showing a dark green cucumber, yellow lemons, and fresh mint leaves.",
+    "environment": "FRIDGE",
+    "lighting": "SHADOW",
+    "clutter": "MODERATE",
+    "image_filename": "scenario_32.jpg",
+    "expected_canonical_ids": [
+      "cucumber",
+      "lemon",
+      "mint_leaves"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Cucumber",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Cucumber"
+        },
+        {
+          "name": "Lemon",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Yellow lemons"
+        },
+        {
+          "name": "Mint Leaves",
+          "quantity": 1,
+          "unit": "bunch",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Mint bundle in plastic bag"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Low contrast shadow handling."
+  },
+  {
+    "id": "SCEN-33",
+    "title": "Pantry Allium Corner - Onion & Garlic",
+    "description": "Dry wire basket holding loose onions and garlic bulbs.",
+    "environment": "PANTRY",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_33.jpg",
+    "expected_canonical_ids": [
+      "onion",
+      "garlic"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Onion",
+          "quantity": 4,
+          "unit": "piece",
+          "storage_guess": "PANTRY",
+          "confidence": "HIGH",
+          "visible_note": "Red-skinned onions"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": "piece",
+          "storage_guess": "PANTRY",
+          "confidence": "HIGH",
+          "visible_note": "White garlic pods"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Wire basket pantry staples."
+  },
+  {
+    "id": "SCEN-34",
+    "title": "Raita Prep - Curd, Cucumber, Mint, Green Chilli",
+    "description": "Fresh curd pot, peeled cucumber, mint leaves, and a slit green chilli.",
+    "environment": "COUNTER",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_34.jpg",
+    "expected_canonical_ids": [
+      "curd",
+      "cucumber",
+      "mint_leaves",
+      "green_chilli"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Curd",
+          "quantity": 1,
+          "unit": "container",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Clay pot with dahi curd"
+        },
+        {
+          "name": "Cucumber",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Fresh cucumber"
+        },
+        {
+          "name": "Mint Leaves",
+          "quantity": 1,
+          "unit": "bunch",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Pudina leaves"
+        },
+        {
+          "name": "Green Chilli",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Small green pepper"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Cooling condiment components."
+  },
+  {
+    "id": "SCEN-35",
+    "title": "Ambiguous Leftovers on Middle Shelf (FP Challenge)",
+    "description": "Fridge shelf with paneer and milk carton, plus an unlabeled plastic container with mixed cooked rice.",
+    "environment": "FRIDGE",
+    "lighting": "DIM_INTERIOR",
+    "clutter": "MODERATE",
+    "image_filename": "scenario_35.jpg",
+    "expected_canonical_ids": [
+      "paneer",
+      "milk"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Paneer",
+          "quantity": 1,
+          "unit": "packet",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Vacuum packed paneer"
+        },
+        {
+          "name": "Milk",
+          "quantity": 1,
+          "unit": "bottle",
+          "storage_guess": "FRIDGE",
+          "confidence": "HIGH",
+          "visible_note": "Milk carton"
+        },
+        {
+          "name": "Cooked Grains Box",
+          "quantity": 1,
+          "unit": "container",
+          "storage_guess": "FRIDGE",
+          "confidence": "LOW",
+          "visible_note": "Plastic box with leftover cooked food"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Tests model outputting unmapped leftover container requiring manual review."
+  },
+  {
+    "id": "SCEN-36",
+    "title": "Citrus & Herbs Refresh",
+    "description": "Two lemons, sprigs of mint leaves, and a ginger piece on counter cutting board.",
+    "environment": "COUNTER",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_36.jpg",
+    "expected_canonical_ids": [
+      "lemon",
+      "mint_leaves",
+      "ginger"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Lemon",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Yellow lemons"
+        },
+        {
+          "name": "Mint Leaves",
+          "quantity": 1,
+          "unit": "bunch",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Pudina"
+        },
+        {
+          "name": "Ginger",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Ginger rhizome"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Beverage and refreshment prep."
+  },
+  {
+    "id": "SCEN-37",
+    "title": "Freezer Storage - Frozen Peas & Chicken",
+    "description": "Bag of frozen green peas alongside a sealed pack of chicken curry cut under freezer overhead light.",
+    "environment": "FREEZER",
+    "lighting": "HARSH_GLARE",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_37.jpg",
+    "expected_canonical_ids": [
+      "green_peas",
+      "chicken_curry_cut"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Green Peas",
+          "quantity": 1,
+          "unit": "packet",
+          "storage_guess": "FREEZER",
+          "confidence": "HIGH",
+          "visible_note": "Frozen green peas"
+        },
+        {
+          "name": "Chicken Curry Cut",
+          "quantity": 1,
+          "unit": "packet",
+          "storage_guess": "FREEZER",
+          "confidence": "HIGH",
+          "visible_note": "Frozen chicken tray"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Harsh glare from freezer frost."
+  },
+  {
+    "id": "SCEN-38",
+    "title": "Fruit Bowl - Banana, Apple, Lemon",
+    "description": "Dining table bowl with yellow bananas, red apples, and a fresh lemon.",
+    "environment": "COUNTER",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_38.jpg",
+    "expected_canonical_ids": [
+      "banana",
+      "apple",
+      "lemon"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Banana",
+          "quantity": 3,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Bananas"
+        },
+        {
+          "name": "Apple",
+          "quantity": 2,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Red apples"
+        },
+        {
+          "name": "Lemon",
+          "quantity": 1,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Lemon"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Multi-fruit bowl."
+  },
+  {
+    "id": "SCEN-39",
+    "title": "Greens Galore - Spinach, Coriander, Curry Leaves, Chilli",
+    "description": "Countertop tray with fresh spinach, coriander leaves, curry leaves, and green chillies.",
+    "environment": "COUNTER",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "MODERATE",
+    "image_filename": "scenario_39.jpg",
+    "expected_canonical_ids": [
+      "spinach",
+      "coriander_leaves",
+      "curry_leaves",
+      "green_chilli"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Spinach",
+          "quantity": 1,
+          "unit": "bunch",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Spinach bunch"
+        },
+        {
+          "name": "Coriander Leaves",
+          "quantity": 1,
+          "unit": "bunch",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Dhania"
+        },
+        {
+          "name": "Curry Leaves",
+          "quantity": 1,
+          "unit": "bunch",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Kadi patta"
+        },
+        {
+          "name": "Green Chilli",
+          "quantity": 4,
+          "unit": "piece",
+          "storage_guess": "COUNTER",
+          "confidence": "HIGH",
+          "visible_note": "Hari mirch"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "High green color density."
+  },
+  {
+    "id": "SCEN-40",
+    "title": "Negative Control - Clean Empty Shelf",
+    "description": "Clean, wiped-down glass refrigerator shelf with no food items present.",
+    "environment": "FRIDGE",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_40.jpg",
+    "expected_canonical_ids": [],
+    "stored_vision_output": {
+      "items": [],
+      "image_quality": "GOOD",
+      "image_quality_note": "Empty shelf"
+    },
+    "notes": "Negative control: confirms model does not hallucinate items on clean surfaces."
+  },
+  {
+    "id": "SCEN-41",
+    "title": "Negative Control - Clean Empty Counter",
+    "description": "Granite countertop with cutting board and knife, but zero food ingredients.",
+    "environment": "COUNTER",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_41.jpg",
+    "expected_canonical_ids": [],
+    "stored_vision_output": {
+      "items": [],
+      "image_quality": "GOOD",
+      "image_quality_note": "Empty counter"
+    },
+    "notes": "Negative control: kitchen utensils and cutting board correctly ignored."
+  },
+  {
+    "id": "SCEN-42",
+    "title": "Pantry Condiments & Dairy - Butter, Ghee, Coconut",
+    "description": "Shelf holding a tub of table butter, jar of desi ghee, and grated fresh coconut.",
+    "environment": "PANTRY",
+    "lighting": "GOOD_LIGHT",
+    "clutter": "SPARSE",
+    "image_filename": "scenario_42.jpg",
+    "expected_canonical_ids": [
+      "butter",
+      "ghee",
+      "coconut_fresh"
+    ],
+    "stored_vision_output": {
+      "items": [
+        {
+          "name": "Butter",
+          "quantity": 1,
+          "unit": "packet",
+          "storage_guess": "PANTRY",
+          "confidence": "HIGH",
+          "visible_note": "Salted butter"
+        },
+        {
+          "name": "Ghee",
+          "quantity": 1,
+          "unit": "bottle",
+          "storage_guess": "PANTRY",
+          "confidence": "HIGH",
+          "visible_note": "Cow ghee"
+        },
+        {
+          "name": "Fresh Coconut",
+          "quantity": 1,
+          "unit": "container",
+          "storage_guess": "PANTRY",
+          "confidence": "HIGH",
+          "visible_note": "Fresh grated coconut"
+        }
+      ],
+      "image_quality": "GOOD",
+      "image_quality_note": null
+    },
+    "notes": "Pantry fats and coconut."
+  }
+]

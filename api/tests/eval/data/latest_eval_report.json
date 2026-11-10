@@ -1,0 +1,1426 @@
+{
+  "total_scenarios": 42,
+  "total_target_ingredients": 30,
+  "covered_ingredients_count": 30,
+  "micro_precision": 0.9851,
+  "micro_recall": 0.9851,
+  "micro_f1": 0.9851,
+  "macro_precision": 1.0,
+  "macro_recall": 0.988,
+  "macro_f1": 0.9939,
+  "average_false_positives_per_scenario": 0.0476,
+  "percentage_scenarios_needing_user_correction": 9.52,
+  "target_precision_threshold": 0.8,
+  "target_recall_threshold": 0.6,
+  "meets_targets": true,
+  "per_ingredient_metrics": {
+    "ginger": {
+      "canonical_id": "ginger",
+      "support": 7,
+      "predicted_count": 7,
+      "true_positives": 7,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "spinach": {
+      "canonical_id": "spinach",
+      "support": 3,
+      "predicted_count": 3,
+      "true_positives": 3,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "eggs": {
+      "canonical_id": "eggs",
+      "support": 3,
+      "predicted_count": 3,
+      "true_positives": 3,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "green_peas": {
+      "canonical_id": "green_peas",
+      "support": 4,
+      "predicted_count": 4,
+      "true_positives": 4,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "fenugreek_leaves": {
+      "canonical_id": "fenugreek_leaves",
+      "support": 2,
+      "predicted_count": 2,
+      "true_positives": 2,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "ghee": {
+      "canonical_id": "ghee",
+      "support": 4,
+      "predicted_count": 4,
+      "true_positives": 4,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "capsicum": {
+      "canonical_id": "capsicum",
+      "support": 4,
+      "predicted_count": 4,
+      "true_positives": 4,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "coriander_leaves": {
+      "canonical_id": "coriander_leaves",
+      "support": 2,
+      "predicted_count": 2,
+      "true_positives": 2,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "garlic": {
+      "canonical_id": "garlic",
+      "support": 6,
+      "predicted_count": 6,
+      "true_positives": 6,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "coconut_fresh": {
+      "canonical_id": "coconut_fresh",
+      "support": 3,
+      "predicted_count": 3,
+      "true_positives": 3,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "apple": {
+      "canonical_id": "apple",
+      "support": 3,
+      "predicted_count": 3,
+      "true_positives": 3,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "green_chilli": {
+      "canonical_id": "green_chilli",
+      "support": 9,
+      "predicted_count": 8,
+      "true_positives": 8,
+      "false_positives": 0,
+      "false_negatives": 1,
+      "precision": 1.0,
+      "recall": 0.8889,
+      "f1": 0.9412
+    },
+    "onion": {
+      "canonical_id": "onion",
+      "support": 10,
+      "predicted_count": 10,
+      "true_positives": 10,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "paneer": {
+      "canonical_id": "paneer",
+      "support": 5,
+      "predicted_count": 5,
+      "true_positives": 5,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "cucumber": {
+      "canonical_id": "cucumber",
+      "support": 4,
+      "predicted_count": 4,
+      "true_positives": 4,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "lemon": {
+      "canonical_id": "lemon",
+      "support": 7,
+      "predicted_count": 7,
+      "true_positives": 7,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "carrot": {
+      "canonical_id": "carrot",
+      "support": 4,
+      "predicted_count": 3,
+      "true_positives": 3,
+      "false_positives": 0,
+      "false_negatives": 1,
+      "precision": 1.0,
+      "recall": 0.75,
+      "f1": 0.8571
+    },
+    "banana": {
+      "canonical_id": "banana",
+      "support": 3,
+      "predicted_count": 3,
+      "true_positives": 3,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "cauliflower": {
+      "canonical_id": "cauliflower",
+      "support": 2,
+      "predicted_count": 2,
+      "true_positives": 2,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "curry_leaves": {
+      "canonical_id": "curry_leaves",
+      "support": 5,
+      "predicted_count": 5,
+      "true_positives": 5,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "butter": {
+      "canonical_id": "butter",
+      "support": 5,
+      "predicted_count": 5,
+      "true_positives": 5,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "mushroom": {
+      "canonical_id": "mushroom",
+      "support": 3,
+      "predicted_count": 3,
+      "true_positives": 3,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "milk": {
+      "canonical_id": "milk",
+      "support": 5,
+      "predicted_count": 5,
+      "true_positives": 5,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "potato": {
+      "canonical_id": "potato",
+      "support": 4,
+      "predicted_count": 4,
+      "true_positives": 4,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "okra": {
+      "canonical_id": "okra",
+      "support": 3,
+      "predicted_count": 3,
+      "true_positives": 3,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "cabbage": {
+      "canonical_id": "cabbage",
+      "support": 2,
+      "predicted_count": 2,
+      "true_positives": 2,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "curd": {
+      "canonical_id": "curd",
+      "support": 7,
+      "predicted_count": 7,
+      "true_positives": 7,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "mint_leaves": {
+      "canonical_id": "mint_leaves",
+      "support": 4,
+      "predicted_count": 4,
+      "true_positives": 4,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "tomato": {
+      "canonical_id": "tomato",
+      "support": 8,
+      "predicted_count": 8,
+      "true_positives": 8,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "chicken_curry_cut": {
+      "canonical_id": "chicken_curry_cut",
+      "support": 3,
+      "predicted_count": 3,
+      "true_positives": 3,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    }
+  },
+  "scenario_results": [
+    {
+      "scenario_id": "SCEN-01",
+      "ground_truth": [
+        "butter",
+        "curd",
+        "eggs",
+        "milk"
+      ],
+      "predictions": [
+        "butter",
+        "curd",
+        "eggs",
+        "milk"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "butter",
+        "curd",
+        "eggs",
+        "milk"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-02",
+      "ground_truth": [
+        "green_chilli",
+        "onion",
+        "potato",
+        "tomato"
+      ],
+      "predictions": [
+        "green_chilli",
+        "onion",
+        "potato",
+        "tomato"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "green_chilli",
+        "onion",
+        "potato",
+        "tomato"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-03",
+      "ground_truth": [
+        "curry_leaves",
+        "garlic",
+        "ginger"
+      ],
+      "predictions": [
+        "curry_leaves",
+        "garlic",
+        "ginger"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "curry_leaves",
+        "garlic",
+        "ginger"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-04",
+      "ground_truth": [
+        "capsicum",
+        "carrot",
+        "cucumber",
+        "lemon"
+      ],
+      "predictions": [
+        "capsicum",
+        "carrot",
+        "cucumber",
+        "lemon"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "capsicum",
+        "carrot",
+        "cucumber",
+        "lemon"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-05",
+      "ground_truth": [
+        "coriander_leaves",
+        "lemon",
+        "mint_leaves"
+      ],
+      "predictions": [
+        "coriander_leaves",
+        "lemon",
+        "mint_leaves"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "coriander_leaves",
+        "lemon",
+        "mint_leaves"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-06",
+      "ground_truth": [
+        "cauliflower",
+        "green_peas",
+        "okra"
+      ],
+      "predictions": [
+        "cauliflower",
+        "green_peas",
+        "okra"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "cauliflower",
+        "green_peas",
+        "okra"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-07",
+      "ground_truth": [
+        "fenugreek_leaves",
+        "spinach"
+      ],
+      "predictions": [
+        "fenugreek_leaves",
+        "spinach"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "fenugreek_leaves",
+        "spinach"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-08",
+      "ground_truth": [
+        "garlic",
+        "ghee",
+        "onion",
+        "potato"
+      ],
+      "predictions": [
+        "garlic",
+        "ghee",
+        "onion",
+        "potato"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "garlic",
+        "ghee",
+        "onion",
+        "potato"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-09",
+      "ground_truth": [
+        "apple",
+        "banana"
+      ],
+      "predictions": [
+        "apple",
+        "banana"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "apple",
+        "banana"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-10",
+      "ground_truth": [
+        "eggs",
+        "mushroom",
+        "paneer"
+      ],
+      "predictions": [
+        "eggs",
+        "mushroom",
+        "paneer"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "eggs",
+        "mushroom",
+        "paneer"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-11",
+      "ground_truth": [
+        "chicken_curry_cut",
+        "green_peas"
+      ],
+      "predictions": [
+        "chicken_curry_cut",
+        "green_peas"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "chicken_curry_cut",
+        "green_peas"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-12",
+      "ground_truth": [
+        "coconut_fresh",
+        "curry_leaves",
+        "green_chilli"
+      ],
+      "predictions": [
+        "coconut_fresh",
+        "curry_leaves",
+        "green_chilli"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "coconut_fresh",
+        "curry_leaves",
+        "green_chilli"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-13",
+      "ground_truth": [
+        "cabbage",
+        "capsicum",
+        "carrot"
+      ],
+      "predictions": [
+        "cabbage",
+        "capsicum",
+        "carrot"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "cabbage",
+        "capsicum",
+        "carrot"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-14",
+      "ground_truth": [
+        "cucumber",
+        "green_chilli",
+        "lemon",
+        "tomato"
+      ],
+      "predictions": [
+        "cucumber",
+        "lemon",
+        "tomato"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "cucumber",
+        "lemon",
+        "tomato"
+      ],
+      "false_positives": [],
+      "false_negatives": [
+        "green_chilli"
+      ],
+      "precision": 1.0,
+      "recall": 0.75,
+      "f1": 0.8571,
+      "needs_user_correction": true
+    },
+    {
+      "scenario_id": "SCEN-15",
+      "ground_truth": [
+        "butter",
+        "curd",
+        "lemon",
+        "milk"
+      ],
+      "predictions": [
+        "butter",
+        "curd",
+        "lemon",
+        "milk"
+      ],
+      "unmapped_predictions": [
+        "Spicy Pickle Jar"
+      ],
+      "true_positives": [
+        "butter",
+        "curd",
+        "lemon",
+        "milk"
+      ],
+      "false_positives": [
+        "UNMAPPED:Spicy Pickle Jar"
+      ],
+      "false_negatives": [],
+      "precision": 0.8,
+      "recall": 1.0,
+      "f1": 0.8889,
+      "needs_user_correction": true
+    },
+    {
+      "scenario_id": "SCEN-16",
+      "ground_truth": [
+        "garlic",
+        "ginger",
+        "green_chilli",
+        "onion",
+        "tomato"
+      ],
+      "predictions": [
+        "garlic",
+        "ginger",
+        "green_chilli",
+        "onion",
+        "tomato"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "garlic",
+        "ginger",
+        "green_chilli",
+        "onion",
+        "tomato"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-17",
+      "ground_truth": [
+        "butter",
+        "curd",
+        "paneer",
+        "tomato"
+      ],
+      "predictions": [
+        "butter",
+        "curd",
+        "paneer",
+        "tomato"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "butter",
+        "curd",
+        "paneer",
+        "tomato"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-18",
+      "ground_truth": [
+        "carrot",
+        "ginger",
+        "onion",
+        "potato"
+      ],
+      "predictions": [
+        "carrot",
+        "ginger",
+        "onion",
+        "potato"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "carrot",
+        "ginger",
+        "onion",
+        "potato"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-19",
+      "ground_truth": [
+        "capsicum",
+        "mushroom",
+        "onion"
+      ],
+      "predictions": [
+        "capsicum",
+        "mushroom",
+        "onion"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "capsicum",
+        "mushroom",
+        "onion"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-20",
+      "ground_truth": [
+        "butter",
+        "eggs",
+        "milk"
+      ],
+      "predictions": [
+        "butter",
+        "eggs",
+        "milk"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "butter",
+        "eggs",
+        "milk"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-21",
+      "ground_truth": [
+        "garlic",
+        "ginger",
+        "green_chilli",
+        "paneer",
+        "spinach"
+      ],
+      "predictions": [
+        "garlic",
+        "ginger",
+        "green_chilli",
+        "paneer",
+        "spinach"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "garlic",
+        "ginger",
+        "green_chilli",
+        "paneer",
+        "spinach"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-22",
+      "ground_truth": [
+        "curry_leaves",
+        "okra",
+        "onion",
+        "tomato"
+      ],
+      "predictions": [
+        "curry_leaves",
+        "okra",
+        "onion",
+        "tomato"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "curry_leaves",
+        "okra",
+        "onion",
+        "tomato"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-23",
+      "ground_truth": [
+        "coconut_fresh",
+        "ghee"
+      ],
+      "predictions": [
+        "coconut_fresh",
+        "ghee"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "coconut_fresh",
+        "ghee"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-24",
+      "ground_truth": [
+        "curd",
+        "paneer"
+      ],
+      "predictions": [
+        "curd",
+        "paneer"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "curd",
+        "paneer"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-25",
+      "ground_truth": [
+        "cauliflower",
+        "ginger",
+        "green_chilli",
+        "potato",
+        "tomato"
+      ],
+      "predictions": [
+        "cauliflower",
+        "ginger",
+        "green_chilli",
+        "potato",
+        "tomato"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "cauliflower",
+        "ginger",
+        "green_chilli",
+        "potato",
+        "tomato"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-26",
+      "ground_truth": [
+        "green_chilli",
+        "okra",
+        "onion",
+        "tomato"
+      ],
+      "predictions": [
+        "green_chilli",
+        "okra",
+        "onion",
+        "tomato"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "green_chilli",
+        "okra",
+        "onion",
+        "tomato"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-27",
+      "ground_truth": [
+        "apple",
+        "banana",
+        "curd",
+        "milk"
+      ],
+      "predictions": [
+        "apple",
+        "banana",
+        "curd",
+        "milk"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "apple",
+        "banana",
+        "curd",
+        "milk"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-28",
+      "ground_truth": [
+        "curd",
+        "fenugreek_leaves",
+        "ghee"
+      ],
+      "predictions": [
+        "curd",
+        "fenugreek_leaves",
+        "ghee"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "curd",
+        "fenugreek_leaves",
+        "ghee"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-29",
+      "ground_truth": [
+        "green_peas",
+        "mushroom",
+        "onion",
+        "tomato"
+      ],
+      "predictions": [
+        "green_peas",
+        "mushroom",
+        "onion",
+        "tomato"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "green_peas",
+        "mushroom",
+        "onion",
+        "tomato"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-30",
+      "ground_truth": [
+        "chicken_curry_cut",
+        "curry_leaves",
+        "garlic",
+        "ginger",
+        "onion"
+      ],
+      "predictions": [
+        "chicken_curry_cut",
+        "curry_leaves",
+        "garlic",
+        "ginger",
+        "onion"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "chicken_curry_cut",
+        "curry_leaves",
+        "garlic",
+        "ginger",
+        "onion"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-31",
+      "ground_truth": [
+        "cabbage",
+        "capsicum",
+        "carrot"
+      ],
+      "predictions": [
+        "cabbage",
+        "capsicum"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "cabbage",
+        "capsicum"
+      ],
+      "false_positives": [],
+      "false_negatives": [
+        "carrot"
+      ],
+      "precision": 1.0,
+      "recall": 0.6667,
+      "f1": 0.8,
+      "needs_user_correction": true
+    },
+    {
+      "scenario_id": "SCEN-32",
+      "ground_truth": [
+        "cucumber",
+        "lemon",
+        "mint_leaves"
+      ],
+      "predictions": [
+        "cucumber",
+        "lemon",
+        "mint_leaves"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "cucumber",
+        "lemon",
+        "mint_leaves"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-33",
+      "ground_truth": [
+        "garlic",
+        "onion"
+      ],
+      "predictions": [
+        "garlic",
+        "onion"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "garlic",
+        "onion"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-34",
+      "ground_truth": [
+        "cucumber",
+        "curd",
+        "green_chilli",
+        "mint_leaves"
+      ],
+      "predictions": [
+        "cucumber",
+        "curd",
+        "green_chilli",
+        "mint_leaves"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "cucumber",
+        "curd",
+        "green_chilli",
+        "mint_leaves"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-35",
+      "ground_truth": [
+        "milk",
+        "paneer"
+      ],
+      "predictions": [
+        "milk",
+        "paneer"
+      ],
+      "unmapped_predictions": [
+        "Cooked Grains Box"
+      ],
+      "true_positives": [
+        "milk",
+        "paneer"
+      ],
+      "false_positives": [
+        "UNMAPPED:Cooked Grains Box"
+      ],
+      "false_negatives": [],
+      "precision": 0.6667,
+      "recall": 1.0,
+      "f1": 0.8,
+      "needs_user_correction": true
+    },
+    {
+      "scenario_id": "SCEN-36",
+      "ground_truth": [
+        "ginger",
+        "lemon",
+        "mint_leaves"
+      ],
+      "predictions": [
+        "ginger",
+        "lemon",
+        "mint_leaves"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "ginger",
+        "lemon",
+        "mint_leaves"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-37",
+      "ground_truth": [
+        "chicken_curry_cut",
+        "green_peas"
+      ],
+      "predictions": [
+        "chicken_curry_cut",
+        "green_peas"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "chicken_curry_cut",
+        "green_peas"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-38",
+      "ground_truth": [
+        "apple",
+        "banana",
+        "lemon"
+      ],
+      "predictions": [
+        "apple",
+        "banana",
+        "lemon"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "apple",
+        "banana",
+        "lemon"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-39",
+      "ground_truth": [
+        "coriander_leaves",
+        "curry_leaves",
+        "green_chilli",
+        "spinach"
+      ],
+      "predictions": [
+        "coriander_leaves",
+        "curry_leaves",
+        "green_chilli",
+        "spinach"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "coriander_leaves",
+        "curry_leaves",
+        "green_chilli",
+        "spinach"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-40",
+      "ground_truth": [],
+      "predictions": [],
+      "unmapped_predictions": [],
+      "true_positives": [],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-41",
+      "ground_truth": [],
+      "predictions": [],
+      "unmapped_predictions": [],
+      "true_positives": [],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    },
+    {
+      "scenario_id": "SCEN-42",
+      "ground_truth": [
+        "butter",
+        "coconut_fresh",
+        "ghee"
+      ],
+      "predictions": [
+        "butter",
+        "coconut_fresh",
+        "ghee"
+      ],
+      "unmapped_predictions": [],
+      "true_positives": [
+        "butter",
+        "coconut_fresh",
+        "ghee"
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "needs_user_correction": false
+    }
+  ]
+}

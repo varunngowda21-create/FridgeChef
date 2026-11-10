@@ -1,0 +1,112 @@
+# ==============================================================================
+# FridgeChef AI — Staging Multi-Container Orchestration
+# PRD Reference: Section 13.1, Section 15.1, Section 15.3
+# ==============================================================================
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: fridgechef-staging-db
+    restart: unless-stopped
+    env_file:
+      - .env.staging
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:?POSTGRES_USER must be set in .env.staging}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?POSTGRES_PASSWORD must be set in .env.staging}
+      POSTGRES_DB: ${POSTGRES_DB:?POSTGRES_DB must be set in .env.staging}
+    volumes:
+      - postgres_staging_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    networks:
+      - fridgechef-staging-network
+
+  api:
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    image: fridgechef-api:staging
+    container_name: fridgechef-staging-api
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    env_file:
+      - .env.staging
+    environment:
+      DATABASE_URL: ${DATABASE_URL:?DATABASE_URL must be set in .env.staging}
+      UPLOAD_DIR: /var/lib/fridgechef/uploads
+      RUN_MIGRATIONS: "true"
+      RUN_SEED: "true"
+      GUNICORN_WORKERS: "${GUNICORN_WORKERS:-1}"
+    volumes:
+      - uploads_staging_data:/var/lib/fridgechef/uploads
+    ports:
+      # Strictly isolated loopback binding: API is never exposed to public interface
+      - "${API_PORT_BINDING:-127.0.0.1:8000}:8000"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 20s
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    networks:
+      - fridgechef-staging-network
+
+  web:
+    build:
+      context: ./web
+      dockerfile: Dockerfile
+    image: fridgechef-web:staging
+    container_name: fridgechef-staging-web
+    restart: unless-stopped
+    depends_on:
+      api:
+        condition: service_healthy
+    ports:
+      # Public HTTP ingress (port 80 redirects to 443; handles ACME challenge)
+      - "80:80"
+      # Public HTTPS ingress (terminates TLS or receives from cloud edge)
+      - "443:443"
+    volumes:
+      # Mount SSL certificates if terminating TLS directly on Nginx
+      - "${SSL_CERT_DIR:-./certs}:/etc/nginx/certs:ro"
+      - "${LETSENCRYPT_DIR:-/etc/letsencrypt}:/etc/letsencrypt:ro"
+      - "${CERTBOT_WEBROOT:-./certbot-webroot}:/var/www/certbot:ro"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost/api/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    networks:
+      - fridgechef-staging-network
+
+volumes:
+  postgres_staging_data:
+    name: fridgechef_staging_postgres_data
+  uploads_staging_data:
+    name: fridgechef_staging_uploads_data
+
+networks:
+  fridgechef-staging-network:
+    name: fridgechef-staging-network
+    driver: bridge
+

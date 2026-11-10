@@ -1,0 +1,4238 @@
+[
+  {
+    "ingredient_id": "potato",
+    "storage": "PANTRY",
+    "days": 30,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "potato",
+    "storage": "COUNTER",
+    "days": 14,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "potato",
+    "storage": "FRIDGE",
+    "days": 45,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "potato",
+    "storage": "FREEZER",
+    "days": 180,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "tomato",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "tomato",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "tomato",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "tomato",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "onion",
+    "storage": "PANTRY",
+    "days": 30,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "onion",
+    "storage": "COUNTER",
+    "days": 14,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "onion",
+    "storage": "FRIDGE",
+    "days": 45,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "onion",
+    "storage": "FREEZER",
+    "days": 180,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "garlic",
+    "storage": "PANTRY",
+    "days": 30,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "garlic",
+    "storage": "COUNTER",
+    "days": 14,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "garlic",
+    "storage": "FRIDGE",
+    "days": 45,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "garlic",
+    "storage": "FREEZER",
+    "days": 180,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "ginger",
+    "storage": "PANTRY",
+    "days": 30,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "ginger",
+    "storage": "COUNTER",
+    "days": 14,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "ginger",
+    "storage": "FRIDGE",
+    "days": 45,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "ginger",
+    "storage": "FREEZER",
+    "days": 180,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "green_chilli",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "green_chilli",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "green_chilli",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "green_chilli",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "spinach",
+    "storage": "FRIDGE",
+    "days": 4,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "spinach",
+    "storage": "COUNTER",
+    "days": 1,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "spinach",
+    "storage": "FREEZER",
+    "days": 30,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "cauliflower",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "cauliflower",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "cauliflower",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "cauliflower",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "cabbage",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "cabbage",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "cabbage",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "cabbage",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "lettuce",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "lettuce",
+    "storage": "COUNTER",
+    "days": 2,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "lettuce",
+    "storage": "PANTRY",
+    "days": 2,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "lettuce",
+    "storage": "FREEZER",
+    "days": 30,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "green_peas",
+    "storage": "FRIDGE",
+    "days": 5,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "green_peas",
+    "storage": "FREEZER",
+    "days": 180,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "green_peas",
+    "storage": "COUNTER",
+    "days": 2,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "carrot",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "carrot",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "carrot",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "carrot",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "capsicum",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "capsicum",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "capsicum",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "capsicum",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "beetroot",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "beetroot",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "beetroot",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "beetroot",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "bottle_gourd",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "bottle_gourd",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "bottle_gourd",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "bottle_gourd",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "bitter_gourd",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "bitter_gourd",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "bitter_gourd",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "bitter_gourd",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "ridge_gourd",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "ridge_gourd",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "ridge_gourd",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "ridge_gourd",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "snake_gourd",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "snake_gourd",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "snake_gourd",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "snake_gourd",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "ivy_gourd",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "ivy_gourd",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "ivy_gourd",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "ivy_gourd",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "okra",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "okra",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "okra",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "okra",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "brinjal",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "brinjal",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "brinjal",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "brinjal",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "fenugreek_leaves",
+    "storage": "FRIDGE",
+    "days": 4,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "fenugreek_leaves",
+    "storage": "COUNTER",
+    "days": 1,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "fenugreek_leaves",
+    "storage": "FREEZER",
+    "days": 30,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "coriander_leaves",
+    "storage": "FRIDGE",
+    "days": 4,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "coriander_leaves",
+    "storage": "COUNTER",
+    "days": 1,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "coriander_leaves",
+    "storage": "FREEZER",
+    "days": 30,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "mint_leaves",
+    "storage": "FRIDGE",
+    "days": 4,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "mint_leaves",
+    "storage": "COUNTER",
+    "days": 1,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "mint_leaves",
+    "storage": "FREEZER",
+    "days": 30,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "curry_leaves",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "curry_leaves",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "curry_leaves",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "curry_leaves",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "drumstick",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "drumstick",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "drumstick",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "drumstick",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "radish",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "radish",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "radish",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "radish",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "sweet_potato",
+    "storage": "PANTRY",
+    "days": 30,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "sweet_potato",
+    "storage": "COUNTER",
+    "days": 14,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "sweet_potato",
+    "storage": "FRIDGE",
+    "days": 45,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "sweet_potato",
+    "storage": "FREEZER",
+    "days": 180,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "raw_banana",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "raw_banana",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "raw_banana",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "raw_banana",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "elephant_foot_yam",
+    "storage": "PANTRY",
+    "days": 30,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "elephant_foot_yam",
+    "storage": "COUNTER",
+    "days": 14,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "elephant_foot_yam",
+    "storage": "FRIDGE",
+    "days": 45,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "elephant_foot_yam",
+    "storage": "FREEZER",
+    "days": 180,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "colocasia",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "colocasia",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "colocasia",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "colocasia",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "ash_gourd",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "ash_gourd",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "ash_gourd",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "ash_gourd",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "pumpkin",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "pumpkin",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "pumpkin",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "pumpkin",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "french_beans",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "french_beans",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "french_beans",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "french_beans",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "cluster_beans",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "cluster_beans",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "cluster_beans",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "cluster_beans",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "broad_beans",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "broad_beans",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "broad_beans",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "broad_beans",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "cucumber",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "cucumber",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "cucumber",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "cucumber",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "spring_onion",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "spring_onion",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "spring_onion",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "spring_onion",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "mushroom",
+    "storage": "FRIDGE",
+    "days": 5,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "mushroom",
+    "storage": "FREEZER",
+    "days": 180,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "mushroom",
+    "storage": "COUNTER",
+    "days": 2,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "sweet_corn",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "sweet_corn",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "sweet_corn",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "sweet_corn",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "baby_corn",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "baby_corn",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "baby_corn",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "baby_corn",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "raw_mango",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "raw_mango",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "raw_mango",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "raw_mango",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "lemon",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "lemon",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "lemon",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "lemon",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "pointed_gourd",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "pointed_gourd",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "pointed_gourd",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "pointed_gourd",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "knol_khol",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "knol_khol",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "knol_khol",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "knol_khol",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "dill_leaves",
+    "storage": "FRIDGE",
+    "days": 4,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "dill_leaves",
+    "storage": "COUNTER",
+    "days": 1,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "dill_leaves",
+    "storage": "FREEZER",
+    "days": 30,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "mustard_greens",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "mustard_greens",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "mustard_greens",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "mustard_greens",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "amaranth_leaves",
+    "storage": "FRIDGE",
+    "days": 4,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "amaranth_leaves",
+    "storage": "COUNTER",
+    "days": 1,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "amaranth_leaves",
+    "storage": "FREEZER",
+    "days": 30,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "lotus_stem",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "lotus_stem",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "lotus_stem",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "lotus_stem",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "red_bell_pepper",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "red_bell_pepper",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "red_bell_pepper",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "red_bell_pepper",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "yellow_bell_pepper",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "yellow_bell_pepper",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "yellow_bell_pepper",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "yellow_bell_pepper",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "turnip",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "turnip",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "turnip",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "turnip",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "beetroot_greens",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "beetroot_greens",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "beetroot_greens",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "beetroot_greens",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "radish_leaves",
+    "storage": "FRIDGE",
+    "days": 4,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "radish_leaves",
+    "storage": "COUNTER",
+    "days": 1,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "radish_leaves",
+    "storage": "FREEZER",
+    "days": 30,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "sponge_gourd",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "sponge_gourd",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "sponge_gourd",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "sponge_gourd",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "zucchini",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "zucchini",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "zucchini",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "zucchini",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "green_papaya",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "green_papaya",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "green_papaya",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "green_papaya",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "shallots",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "shallots",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "shallots",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "shallots",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "jackfruit_raw",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "jackfruit_raw",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "jackfruit_raw",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "jackfruit_raw",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "banana",
+    "storage": "COUNTER",
+    "days": 4,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "banana",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "apple",
+    "storage": "FRIDGE",
+    "days": 10,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "apple",
+    "storage": "COUNTER",
+    "days": 4,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "apple",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "mango",
+    "storage": "FRIDGE",
+    "days": 10,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "mango",
+    "storage": "COUNTER",
+    "days": 4,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "mango",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "papaya",
+    "storage": "COUNTER",
+    "days": 4,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "papaya",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "pomegranate",
+    "storage": "FRIDGE",
+    "days": 10,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "pomegranate",
+    "storage": "COUNTER",
+    "days": 4,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "pomegranate",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "orange",
+    "storage": "FRIDGE",
+    "days": 10,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "orange",
+    "storage": "COUNTER",
+    "days": 4,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "orange",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "guava",
+    "storage": "COUNTER",
+    "days": 4,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "guava",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "watermelon",
+    "storage": "FRIDGE",
+    "days": 10,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "watermelon",
+    "storage": "COUNTER",
+    "days": 4,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "watermelon",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "muskmelon",
+    "storage": "FRIDGE",
+    "days": 10,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "muskmelon",
+    "storage": "COUNTER",
+    "days": 4,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "muskmelon",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "grapes",
+    "storage": "FRIDGE",
+    "days": 10,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "grapes",
+    "storage": "COUNTER",
+    "days": 4,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "grapes",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "pineapple",
+    "storage": "FRIDGE",
+    "days": 10,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "pineapple",
+    "storage": "COUNTER",
+    "days": 4,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "pineapple",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "sapodilla",
+    "storage": "FRIDGE",
+    "days": 10,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "sapodilla",
+    "storage": "COUNTER",
+    "days": 4,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "sapodilla",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "sweet_lime",
+    "storage": "COUNTER",
+    "days": 4,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "sweet_lime",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "coconut_fresh",
+    "storage": "FRIDGE",
+    "days": 10,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "coconut_fresh",
+    "storage": "COUNTER",
+    "days": 4,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "coconut_fresh",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "custard_apple",
+    "storage": "FRIDGE",
+    "days": 10,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "custard_apple",
+    "storage": "COUNTER",
+    "days": 4,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "custard_apple",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "pears",
+    "storage": "FRIDGE",
+    "days": 10,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "pears",
+    "storage": "COUNTER",
+    "days": 4,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "pears",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "strawberry",
+    "storage": "FRIDGE",
+    "days": 10,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "strawberry",
+    "storage": "COUNTER",
+    "days": 4,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "strawberry",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "dates",
+    "storage": "PANTRY",
+    "days": 90,
+    "opened_days": 45
+  },
+  {
+    "ingredient_id": "dates",
+    "storage": "FRIDGE",
+    "days": 180,
+    "opened_days": 60
+  },
+  {
+    "ingredient_id": "amla",
+    "storage": "PANTRY",
+    "days": 90,
+    "opened_days": 45
+  },
+  {
+    "ingredient_id": "amla",
+    "storage": "FRIDGE",
+    "days": 180,
+    "opened_days": 60
+  },
+  {
+    "ingredient_id": "fig_fresh",
+    "storage": "FRIDGE",
+    "days": 10,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "fig_fresh",
+    "storage": "COUNTER",
+    "days": 4,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "fig_fresh",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "kiwi",
+    "storage": "FRIDGE",
+    "days": 10,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "kiwi",
+    "storage": "COUNTER",
+    "days": 4,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "kiwi",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "plum",
+    "storage": "FRIDGE",
+    "days": 10,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "plum",
+    "storage": "COUNTER",
+    "days": 4,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "plum",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "milk",
+    "storage": "FRIDGE",
+    "days": 4,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "milk",
+    "storage": "COUNTER",
+    "days": 1,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "milk",
+    "storage": "FREEZER",
+    "days": 60,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "curd",
+    "storage": "FRIDGE",
+    "days": 5,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "curd",
+    "storage": "FREEZER",
+    "days": 60,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "paneer",
+    "storage": "FRIDGE",
+    "days": 5,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "paneer",
+    "storage": "FREEZER",
+    "days": 60,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "butter",
+    "storage": "FRIDGE",
+    "days": 14,
+    "opened_days": 5
+  },
+  {
+    "ingredient_id": "butter",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "ghee",
+    "storage": "PANTRY",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "ghee",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "cream",
+    "storage": "FRIDGE",
+    "days": 14,
+    "opened_days": 5
+  },
+  {
+    "ingredient_id": "cream",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "cheese_processed",
+    "storage": "FRIDGE",
+    "days": 14,
+    "opened_days": 5
+  },
+  {
+    "ingredient_id": "cheese_processed",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "buttermilk",
+    "storage": "FRIDGE",
+    "days": 5,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "buttermilk",
+    "storage": "FREEZER",
+    "days": 60,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "condensed_milk",
+    "storage": "FRIDGE",
+    "days": 14,
+    "opened_days": 5
+  },
+  {
+    "ingredient_id": "condensed_milk",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "khoya",
+    "storage": "FRIDGE",
+    "days": 14,
+    "opened_days": 5
+  },
+  {
+    "ingredient_id": "khoya",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "eggs",
+    "storage": "FRIDGE",
+    "days": 28,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "eggs",
+    "storage": "COUNTER",
+    "days": 10,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "hung_curd",
+    "storage": "FRIDGE",
+    "days": 5,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "hung_curd",
+    "storage": "FREEZER",
+    "days": 60,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "mozzarella_cheese",
+    "storage": "FRIDGE",
+    "days": 14,
+    "opened_days": 5
+  },
+  {
+    "ingredient_id": "mozzarella_cheese",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "goat_milk",
+    "storage": "FRIDGE",
+    "days": 14,
+    "opened_days": 5
+  },
+  {
+    "ingredient_id": "goat_milk",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "evaporated_milk",
+    "storage": "FRIDGE",
+    "days": 14,
+    "opened_days": 5
+  },
+  {
+    "ingredient_id": "evaporated_milk",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "chicken_breast",
+    "storage": "FRIDGE",
+    "days": 2,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "chicken_breast",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": 30
+  },
+  {
+    "ingredient_id": "chicken_curry_cut",
+    "storage": "FRIDGE",
+    "days": 2,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "chicken_curry_cut",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": 30
+  },
+  {
+    "ingredient_id": "chicken_thighs",
+    "storage": "FRIDGE",
+    "days": 2,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "chicken_thighs",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": 30
+  },
+  {
+    "ingredient_id": "mutton_curry_cut",
+    "storage": "FRIDGE",
+    "days": 2,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "mutton_curry_cut",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": 30
+  },
+  {
+    "ingredient_id": "mutton_keema",
+    "storage": "FRIDGE",
+    "days": 2,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "mutton_keema",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": 30
+  },
+  {
+    "ingredient_id": "fish_rohu",
+    "storage": "FRIDGE",
+    "days": 2,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "fish_rohu",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": 30
+  },
+  {
+    "ingredient_id": "fish_pomfret",
+    "storage": "FRIDGE",
+    "days": 2,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "fish_pomfret",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": 30
+  },
+  {
+    "ingredient_id": "fish_surmai",
+    "storage": "FRIDGE",
+    "days": 2,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "fish_surmai",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": 30
+  },
+  {
+    "ingredient_id": "prawns",
+    "storage": "FRIDGE",
+    "days": 2,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "prawns",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": 30
+  },
+  {
+    "ingredient_id": "tofu",
+    "storage": "FRIDGE",
+    "days": 2,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "tofu",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": 30
+  },
+  {
+    "ingredient_id": "soya_chunks",
+    "storage": "FRIDGE",
+    "days": 2,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "soya_chunks",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": 30
+  },
+  {
+    "ingredient_id": "soya_granules",
+    "storage": "FRIDGE",
+    "days": 2,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "soya_granules",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": 30
+  },
+  {
+    "ingredient_id": "fish_katla",
+    "storage": "FRIDGE",
+    "days": 2,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "fish_katla",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": 30
+  },
+  {
+    "ingredient_id": "fish_basa",
+    "storage": "FRIDGE",
+    "days": 2,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "fish_basa",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": 30
+  },
+  {
+    "ingredient_id": "egg_whites",
+    "storage": "FRIDGE",
+    "days": 2,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "egg_whites",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": 30
+  },
+  {
+    "ingredient_id": "crab_meat",
+    "storage": "FRIDGE",
+    "days": 2,
+    "opened_days": 1
+  },
+  {
+    "ingredient_id": "crab_meat",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": 30
+  },
+  {
+    "ingredient_id": "basmati_rice",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "basmati_rice",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "basmati_rice",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "sona_masoori_rice",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "sona_masoori_rice",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "sona_masoori_rice",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "brown_rice",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "brown_rice",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "brown_rice",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "poha",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "poha",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "poha",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "puffed_rice",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "puffed_rice",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "puffed_rice",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "wheat_flour",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "wheat_flour",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "wheat_flour",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "maida",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "maida",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "maida",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "semolina",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "semolina",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "semolina",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "besan",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "besan",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "besan",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "ragi_flour",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "ragi_flour",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "ragi_flour",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "jowar_flour",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "jowar_flour",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "jowar_flour",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "bajra_flour",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "bajra_flour",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "bajra_flour",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "oats",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "oats",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "oats",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "yellow_moong_dal",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "yellow_moong_dal",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "yellow_moong_dal",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "split_green_moong_dal",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "split_green_moong_dal",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "split_green_moong_dal",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "whole_green_moong",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "whole_green_moong",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "whole_green_moong",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "toor_dal",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "toor_dal",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "toor_dal",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "chana_dal",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "chana_dal",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "chana_dal",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "urad_dal_split",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "urad_dal_split",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "urad_dal_split",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "urad_dal_whole",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "urad_dal_whole",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "urad_dal_whole",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "masoor_dal",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "masoor_dal",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "masoor_dal",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "whole_masoor",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "whole_masoor",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "whole_masoor",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "kabuli_chana",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "kabuli_chana",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "kabuli_chana",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "kala_chana",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "kala_chana",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "kala_chana",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "rajma",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "rajma",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "rajma",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "white_peas",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "white_peas",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "white_peas",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "cowpeas_lobia",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "cowpeas_lobia",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "cowpeas_lobia",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "moth_beans",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "moth_beans",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "moth_beans",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "horse_gram",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "horse_gram",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "horse_gram",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "sabudana",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "sabudana",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "sabudana",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "vermicelli",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "vermicelli",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "vermicelli",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "broken_wheat",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "broken_wheat",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "broken_wheat",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "idli_rice",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "idli_rice",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "idli_rice",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "quinoa",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "quinoa",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "quinoa",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "turmeric_powder",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "turmeric_powder",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "turmeric_powder",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "red_chilli_powder",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "red_chilli_powder",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "red_chilli_powder",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "kashmiri_chilli_powder",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "kashmiri_chilli_powder",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "kashmiri_chilli_powder",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "coriander_powder",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "coriander_powder",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "coriander_powder",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "cumin_seeds",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "cumin_seeds",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "cumin_seeds",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "cumin_powder",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "cumin_powder",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "cumin_powder",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "mustard_seeds",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "mustard_seeds",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "mustard_seeds",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "fennel_seeds",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "fennel_seeds",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "fennel_seeds",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "fenugreek_seeds",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "fenugreek_seeds",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "fenugreek_seeds",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "carom_seeds",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "carom_seeds",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "carom_seeds",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "nigella_seeds",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "nigella_seeds",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "nigella_seeds",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "cardamom_green",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "cardamom_green",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "cardamom_green",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "cardamom_black",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "cardamom_black",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "cardamom_black",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "cloves",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "cloves",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "cloves",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "cinnamon_stick",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "cinnamon_stick",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "cinnamon_stick",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "bay_leaf",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "bay_leaf",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "bay_leaf",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "star_anise",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "star_anise",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "star_anise",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "mace",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "mace",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "mace",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "nutmeg",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "nutmeg",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "nutmeg",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "black_peppercorns",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "black_peppercorns",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "black_peppercorns",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "black_pepper_powder",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "black_pepper_powder",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "black_pepper_powder",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "asafoetida",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "asafoetida",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "asafoetida",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "amchur",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "amchur",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "amchur",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "garam_masala",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "garam_masala",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "garam_masala",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "chaat_masala",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "chaat_masala",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "chaat_masala",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "kasuri_methi",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "kasuri_methi",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "kasuri_methi",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "dry_ginger_powder",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "dry_ginger_powder",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "dry_ginger_powder",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "saffron",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "saffron",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "saffron",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "white_sesame_seeds",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "white_sesame_seeds",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "white_sesame_seeds",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "black_sesame_seeds",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "black_sesame_seeds",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "black_sesame_seeds",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "poppy_seeds",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "poppy_seeds",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "poppy_seeds",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "tamarind",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "tamarind",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "tamarind",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "dry_red_chillies",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "dry_red_chillies",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "dry_red_chillies",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "coriander_seeds",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "coriander_seeds",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "coriander_seeds",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "sambar_powder",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "sambar_powder",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "sambar_powder",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "rasam_powder",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "rasam_powder",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "rasam_powder",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "biryani_masala",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "biryani_masala",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "biryani_masala",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "pav_bhaji_masala",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "pav_bhaji_masala",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "pav_bhaji_masala",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "chole_masala",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "chole_masala",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "chole_masala",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "kitchen_king_masala",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "kitchen_king_masala",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "kitchen_king_masala",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "mustard_oil",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "mustard_oil",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "mustard_oil",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "sunflower_oil",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "sunflower_oil",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "sunflower_oil",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "groundnut_oil",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "groundnut_oil",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "groundnut_oil",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "sesame_oil",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "sesame_oil",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "sesame_oil",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "coconut_oil",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "coconut_oil",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "coconut_oil",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "olive_oil",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "olive_oil",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "olive_oil",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "salt",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "salt",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "salt",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "black_salt",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "black_salt",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "black_salt",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "rock_salt",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "rock_salt",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "rock_salt",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "sugar",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "sugar",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "sugar",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "jaggery",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "jaggery",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "jaggery",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "honey",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "honey",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "honey",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "white_vinegar",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "white_vinegar",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "white_vinegar",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "tomato_ketchup",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "tomato_ketchup",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "tomato_ketchup",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "soy_sauce",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "soy_sauce",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "soy_sauce",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "green_chilli_sauce",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "green_chilli_sauce",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "green_chilli_sauce",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "rose_water",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "rose_water",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "rose_water",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "kokum",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "kokum",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "kokum",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "ginger_garlic_paste",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "ginger_garlic_paste",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "ginger_garlic_paste",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "tomato_puree",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "tomato_puree",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "tomato_puree",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "tamarind_paste",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "tamarind_paste",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "tamarind_paste",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "anardana_powder",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "anardana_powder",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "anardana_powder",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "bisi_bele_bath_powder",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "bisi_bele_bath_powder",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "bisi_bele_bath_powder",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "makki_atta",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "makki_atta",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "makki_atta",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "tinda",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "tinda",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "tinda",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "tinda",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "chayote",
+    "storage": "FRIDGE",
+    "days": 7,
+    "opened_days": 3
+  },
+  {
+    "ingredient_id": "chayote",
+    "storage": "COUNTER",
+    "days": 3,
+    "opened_days": 2
+  },
+  {
+    "ingredient_id": "chayote",
+    "storage": "PANTRY",
+    "days": 5,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "chayote",
+    "storage": "FREEZER",
+    "days": 90,
+    "opened_days": null
+  },
+  {
+    "ingredient_id": "cashews",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "cashews",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "cashews",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "almonds",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "almonds",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "almonds",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "raisins",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "raisins",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "raisins",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "pistachios",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "pistachios",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "pistachios",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "walnuts",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "walnuts",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "walnuts",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "peanuts",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "peanuts",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "peanuts",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "desiccated_coconut",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "desiccated_coconut",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "desiccated_coconut",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "melon_seeds",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "melon_seeds",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "melon_seeds",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "tea_leaves",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "tea_leaves",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "tea_leaves",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "coffee_powder",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "coffee_powder",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "coffee_powder",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "baking_soda",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "baking_soda",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "baking_soda",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "baking_powder",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "baking_powder",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "baking_powder",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "cornflour",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "cornflour",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "cornflour",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "yeast",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "yeast",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "yeast",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "vanilla_essence",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "vanilla_essence",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "vanilla_essence",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "cocoa_powder",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "cocoa_powder",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "cocoa_powder",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "custard_powder",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "custard_powder",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "custard_powder",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "bread_crumbs",
+    "storage": "PANTRY",
+    "days": 365,
+    "opened_days": 180
+  },
+  {
+    "ingredient_id": "bread_crumbs",
+    "storage": "COUNTER",
+    "days": 180,
+    "opened_days": 90
+  },
+  {
+    "ingredient_id": "bread_crumbs",
+    "storage": "FRIDGE",
+    "days": 365,
+    "opened_days": 180
+  }
+]

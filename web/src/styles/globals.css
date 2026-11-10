@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  /* Support for virtual viewport height */
+  :root {
+    --sat: env(safe-area-inset-top);
+    --sar: env(safe-area-inset-right);
+    --sab: env(safe-area-inset-bottom);
+    --sal: env(safe-area-inset-left);
+  }
+}
+
+/* Custom interactive touch target and visual viewport styles */
+.touch-target {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+/* Sticky visualViewport aware footer */
+.viewport-footer {
+  position: sticky;
+  bottom: 0;
+  padding-bottom: max(env(safe-area-inset-bottom, 0px), 8px);
+}
+
