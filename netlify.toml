@@ -1,0 +1,14 @@
+[build]
+  base = "web"
+  command = "npm ci --include=dev && npm run build"
+  publish = "dist"
+
+[build.environment]
+  # This is a Vite app; skip the Next.js runtime enabled in the site settings.
+  NETLIFY_NEXT_PLUGIN_SKIP = "true"
+
+# Serve the React app for client-side routes such as /login and /inventory.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
